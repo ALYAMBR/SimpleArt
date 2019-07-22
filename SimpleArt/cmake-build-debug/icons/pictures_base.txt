@@ -1,7 +1,0 @@
-icons/instr_b_ic_default_brush.jpg
-icons/instr_b_ic_circle_brush.jpg
-icons/instr_b_ic_line.jpg
-icons/instr_b_ic_bucket.jpg
-icons/instr_b_ic_true_line.jpg
-icons/instr_b_ic_undo.jpg
-icons/instr_b_ic_pipetka.jpg
