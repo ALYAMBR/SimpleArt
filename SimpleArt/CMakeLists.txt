@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.12)
+# Replace VisionTest with your project name
+project(SimpleArt)
+set(OpenCV_DIR /home/ust.hk/jjiangan/opencv-3.1.0/build)
+find_package(OpenCV REQUIRED)
+message(STATUS "OpenCV library status:")
+message(STATUS "    version: ${OpenCV_VERSION}")
+message(STATUS "    libraries: ${OpenCV_LIBS}")
+message(STATUS "    include path: ${OpenCV_INCLUDE_DIRS}")
+include_directories(${OpenCV_INCLUDE_DIRS})
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE_FILES MainWIndow/main.cpp)
+# This is to compile main.cpp into an executable named vision_test
+add_executable(SimpleArt MainWIndow/main.cpp Palette/Mcolour.cpp Palette/Mcolour.h SimpleArtFunctions.h SimpleArtClasses.h Palette/generatePalette.cpp Utilities/Constants.h Palette/chooseColour.cpp Palette/redrawMainColourInPalette.cpp Palette/drawBarsInPalette.cpp Instruments/brushesFunctions.cpp Instruments/chooseInstrument.cpp Instruments/generateInstrumentsMenu.cpp Instruments/chooseInstrumentButton.cpp Instruments/line.cpp Instruments/bucket.cpp Utilities/serviceFunctions.cpp Instruments/trueLine.cpp Instruments/pipette.cpp)
+target_link_libraries(SimpleArt ${OpenCV_LIBS})
