@@ -1,3 +1,0 @@
-/home/alyambr/SimpleArt/SimpleArt/cmake-build-release/CMakeFiles/rebuild_cache.dir
-/home/alyambr/SimpleArt/SimpleArt/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/alyambr/SimpleArt/SimpleArt/cmake-build-release/CMakeFiles/SimpleArt.dir
