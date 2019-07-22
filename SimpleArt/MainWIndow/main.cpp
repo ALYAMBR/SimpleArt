@@ -70,7 +70,7 @@ static void onMouseMain(const int event, const int x, const int y, int, void* pa
     }
     MainConfig.set_isWorking(false);
 }
-static void onMousePalitra(const int event, const int x, const int y, int, void* param)
+static void onMousePalette(const int event, const int x, const int y, int, void* param)
 {
     wait_for_end_of_work(MainConfig);
     cv::Mat &image = *((cv::Mat*)(param));
@@ -95,12 +95,12 @@ int main() {
         main_image_buffer.push_front(cv::Mat{WINDOW_SIMPLE_ART_HEIGHT, WINDOW_SIMPLE_ART_WIDTH, CV_8UC3, cv::Scalar(255, 255, 255)});
     cv::setMouseCallback("SimpleArt", onMouseMain, &main_image_buffer);
 
-    cv::namedWindow("Palitra", cv::WINDOW_GUI_NORMAL);
-    cv::moveWindow("Palitra", MOVE_WINDOWS_X - WINDOW_PALETTE_WIDTH, MOVE_WINDOWS_Y);
-    cv::setWindowProperty("Palitra", cv::WND_PROP_AUTOSIZE, CV_WINDOW_AUTOSIZE);
-    cv:: Mat palitra(WINDOW_PALETTE_HEIGHT, WINDOW_PALETTE_WIDTH, CV_8UC3, cv::Scalar(255, 255, 255));//three colour lines - Red Green Blue]
-    generatePalitra(palitra, mainColour);
-    cv::setMouseCallback("Palitra", onMousePalitra, &palitra);
+    cv::namedWindow("Palette", cv::WINDOW_GUI_NORMAL);
+    cv::moveWindow("Palette", MOVE_WINDOWS_X - WINDOW_PALETTE_WIDTH, MOVE_WINDOWS_Y);
+    cv::setWindowProperty("Palette", cv::WND_PROP_AUTOSIZE, CV_WINDOW_AUTOSIZE);
+    cv:: Mat palette(WINDOW_PALETTE_HEIGHT, WINDOW_PALETTE_WIDTH, CV_8UC3, cv::Scalar(255, 255, 255));//three colour lines - Red Green Blue]
+    generatePalette(palette, mainColour);
+    cv::setMouseCallback("Palette", onMousePalette, &palette);
 
     cv::namedWindow("Instruments", cv::WINDOW_GUI_NORMAL);
     cv::moveWindow("Instruments", MOVE_WINDOWS_X - WINDOW_INSTRUMENTS_WIDTH, MOVE_WINDOWS_Y + WINDOW_SIMPLE_ART_HEIGHT - WINDOW_INSTRUMENTS_HEIGHT);
@@ -114,8 +114,8 @@ int main() {
     {
 
         cv::imshow("SimpleArt", main_image_buffer.front());
-        redrawMainColourInPalette(palitra, mainColour);
-        cv::imshow("Palitra", palitra);
+        redrawMainColourInPalette(palette, mainColour);
+        cv::imshow("Palitra", palette);
         cv::imshow("Instruments", instruments);
         char c = cvWaitKey(1);
         if(c == 27)

@@ -1,7 +1,7 @@
 #include "../SimpleArtFunctions.h"
-void generatePalitra(cv::Mat& palitraImg, Mcolour & mainColour)
+void generatePalette(cv::Mat& paletteImg, Mcolour & mainColour)
 {
-    redrawMainColourInPalette(palitraImg, mainColour);
-    drawBarsInPalette(palitraImg, mainColour);
+    redrawMainColourInPalette(paletteImg, mainColour);
+    drawBarsInPalette(paletteImg, mainColour);
 }
 

@@ -6,7 +6,7 @@
 #include "Palette/Mcolour.h"
 #include "Utilities/Constants.h"
 #include "SimpleArtClasses.h"
-void generatePalitra(cv::Mat& palitraImg, Mcolour & mainColour);// generates palitra image
+void generatePalette(cv::Mat& palitraImg, Mcolour & mainColour);// generates palitra image
 void chooseColour(cv::Mat& palitraImg, Mcolour & mainColour, int x, int y);//choose new colour with palitra click coordinates
 void redrawMainColourInPalette(cv::Mat &paletteImg, Mcolour &mainColour);//draw square in Palitra window with main colour
 void drawBarsInPalette(cv::Mat &paletteImg, Mcolour &MainColour);//draw colour lines in palitra window

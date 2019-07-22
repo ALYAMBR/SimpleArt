@@ -13,144 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f81fcc3a-db8d-4cfc-bb1b-fcaa1cdbf90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Palette/drawBarsInPalette.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Palette/generatePalette.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Palette/redrawMainColourInPalette.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CircularBuffer/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../CircularBuffer/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/proxy_java_1_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/proxy_java_1_8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/.idea/Risovat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Risovat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/Constants.h" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Constants.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/Mcolour.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Palette/Mcolour.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/Mcolour.h" beforeDir="false" afterPath="$PROJECT_DIR$/Palette/Mcolour.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/RisovatClasses.h" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleArtClasses.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/RisovatFunctions.h" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleArtFunctions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/brushesFunctions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/brushesFunctions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/bucket.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/bucket.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/chooseColour.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Palette/chooseColour.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/chooseInstrument.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/chooseInstrument.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/chooseInstrumentButton.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/chooseInstrumentButton.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/Risovat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/Risovat" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Risovat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/Risovat.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Risovat.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_bucket.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_bucket.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_circle_brush.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_circle_brush.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_default_brush.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_default_brush.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_line.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_line.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_pipetka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_pipetka.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_true_line.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_true_line.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/instr_b_ic_undo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/instr_b_ic_undo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-debug/icons/pictures_base.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/icons/pictures_base.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CompilerIdC/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/3.12.0/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.12.0/CompilerIdCXX/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/cmake-build-release/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-release/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/drawBarsInPalitra.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/generateInstrumentsMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/generateInstrumentsMenu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/generatePalitra.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/line.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/line.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainWIndow/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/pipetka.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/pipette.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/redrawMainColourInPalitra.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/service_functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/serviceFunctions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Risovat/true_line.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Instruments/trueLine.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/Mcolour.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/brushesFunctions.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/bucket.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/chooseColour.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/chooseInstrument.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/chooseInstrumentButton.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/drawBarsInPalitra.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/generateInstrumentsMenu.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/generatePalitra.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/line.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/pipetka.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/redrawMainColourInPalitra.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/service_functions.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Risovat.dir/true_line.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/Mcolour.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/brushesFunctions.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/bucket.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/chooseColour.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/chooseInstrument.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/chooseInstrumentButton.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/drawBarsInPalitra.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/generateInstrumentsMenu.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/generatePalitra.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/line.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/redrawMainColourInPalitra.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Risovat.dir/service_functions.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/Risovat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/Risovat.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palette/generatePalette.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Palette/generatePalette.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-release/" />
@@ -253,14 +116,51 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-744681962">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Palette/generatePalette.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -302,6 +202,7 @@
         <option value="$PROJECT_DIR$/Utilities/serviceFunctions.cpp" />
         <option value="$PROJECT_DIR$/Instruments/trueLine.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Palette/generatePalette.cpp" />
       </list>
     </option>
   </component>
@@ -332,6 +233,11 @@
               <item name="SimpleArt" type="b2602c69:ProjectViewProjectNode" />
               <item name="SimpleArt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SimpleArt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleArt" type="462c0819:PsiDirectoryNode" />
+              <item name="Palette" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -341,7 +247,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/alyambr/17208_radeevnikita/Risovat/redrawMainColourInPalitra.cpp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug/Risovat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
@@ -420,6 +326,7 @@
       <workItem from="1545358921487" duration="1079000" />
       <workItem from="1563795397490" duration="224000" />
       <workItem from="1563795632232" duration="1625000" />
+      <workItem from="1563799398467" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Need to understand how setMouseCallback works and make function that draw single pixel in user colour.">
       <created>1540381555369</created>
@@ -432,13 +339,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68439000" />
+    <option name="totallyTimeSpent" value="68462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22999327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19502354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,18 +398,8 @@
     <entry file="file://$PROJECT_DIR$/pictures_base.txt" />
     <entry file="file://$PROJECT_DIR$/set_point_colour.cpp" />
     <entry file="file://$PROJECT_DIR$/check_colour.cpp" />
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
     <entry file="file://$PROJECT_DIR$/Instruments/brushesFunctions.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -549,9 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="115" column="59" selection-start-line="115" selection-start-column="59" selection-end-line="115" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -590,11 +484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/task.txt" />
     <entry file="file://$PROJECT_DIR$/Palette/Mcolour.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -616,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palette/generatePalette.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Instruments/trueLine.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -641,9 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
-          <folding>
-            <element signature="e#70#102#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,6 +531,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palette/generatePalette.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
         </state>
       </provider>
     </entry>
